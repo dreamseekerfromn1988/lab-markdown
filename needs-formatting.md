@@ -5,7 +5,7 @@
 <!-- The text below is ASCII art of a raccoon. Wrap it in a code block. -->
 
 ```js
-console.log("a racoon ASCII art");
+console.log("a racoon ASCII art!!!");
                         ,,,  
                       .'    `/\_/\  
                     .'       <@I@>  
